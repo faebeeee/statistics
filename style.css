@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #2c2c2c; /* Dark gray for all pages */
+    color: white; /* White text for better contrast */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffffff; /* White headings for all pages */
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF; /* Blue links for all pages */
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+    color: #cccccc; /* Light gray on hover */
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
